@@ -1,0 +1,22 @@
+input {
+    background-color: var(--color-mode);
+    width: 46px;
+    height: 44px;
+    border: none;
+}
+
+#btnSearch {
+    background-color: var(--color-grey-5);
+    width: 288px;
+    height: 38px;
+    border-radius: 5px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+@media (min-width: 1024px) {
+    #btnNavbar {
+        display: none;
+    }
+
+}

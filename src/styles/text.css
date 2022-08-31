@@ -1,0 +1,11 @@
+h1 {
+    color: var(--color-brand-1);
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+@media (min-width: 1024px) {
+    .container__perfil p {
+        display: none;
+    }
+}

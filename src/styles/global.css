@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500&display=swap');
+
+:root {
+    --color-brand-1: #364FC7;
+    --color-grey-1: #212529;
+    --color-grey-2: #868E96;
+    --color-grey-3: #ADB5BD;
+    --color-grey-4: #E9ECEF;
+    --color-grey-5: #F1F3F5;
+    --color-grey-6: #F8F9FA;
+    --color-mode: #FFFFFF;
+}
+
